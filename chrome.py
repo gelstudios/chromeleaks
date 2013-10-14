@@ -14,7 +14,12 @@ for s in data[u'submissions']:
     if feat:
         cat = list()
         for f in feat:
-            tmp = {'name':f[u'first_name'],'img':f[u'rendered_url'],'ip':f[u'remote_addr'],'winner':f[u'is_winner']}
+            tmp = {
+            'name':f[u'first_name'],
+            'img':f[u'rendered_url'],
+            'ip':f[u'remote_addr'],
+            'winner':f[u'is_winner']
+            }
             try:
                 hostname = socket.gethostbyaddr(f[u'remote_addr'])
                 if hostname:
@@ -27,10 +32,17 @@ for s in data[u'submissions']:
             else:
                 gurl += tmp['ip']
             try:
+                print 'using '+gurl
                 req = urllib2.urlopen(gurl)
                 g = json.load(req)
-                geod = {'city':g['city'],'region':g['region_name'],'country':g['country_code'],'lat':g['latitude'],'long':g['longitude']}
-                tmp.update(geo)
+                geod = {
+                'city':g['city'],
+                'region':g['region_name'],
+                'country':g['country_code'],
+                'lat':g['latitude'],
+                'long':g['longitude']
+                }
+                tmp.update(geod)
             except:
                 pass
                 
