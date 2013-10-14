@@ -1,0 +1,1411 @@
+{
+  "A+ teachers": [
+    {
+      "hostname": "88-106-90-192.dynamic.dsl.as9105.com", 
+      "img": "https://lh3.ggpht.com/P614epwJ0g1g46nNrvZWVLAPDBNkcH7B52QchpEPuq2ckDrlKk5YrLpFzaUIi7_2lxVNuB29xqBMfQ7pqopUd3EREEsddLZF_A", 
+      "ip": "88.106.90.192", 
+      "name": "Ben", 
+      "winner": false
+    }, 
+    {
+      "hostname": "173.242.159.216.biz.sta.networkgci.net", 
+      "img": "https://lh4.ggpht.com/oJ6WSQ5p91OjaYnvDvcG8ucjUaR_ty26TMVfD7tIXuPSnOlAPSrOiTpAeLi5t7r9fqXbWED-1MJamepQYIMG6G76S098XpUBB_kb", 
+      "ip": "216.159.242.173", 
+      "name": "Steve", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-67-249-14-70.twcny.res.rr.com", 
+      "img": "https://lh6.ggpht.com/s5qdikVCYrInot4Xjs7K45EAkv49WpZQxBWSxWfsvdxopFJXI7gc7a6mxurtfPF8Tl4Gk0ERl_tD_njWvuGF9Yy-vunEolSH-kC2", 
+      "ip": "67.249.14.70", 
+      "name": "Bill", 
+      "winner": false
+    }
+  ], 
+  "YouTube masters": [
+    {
+      "hostname": "c-50-161-2-36.hsd1.ca.comcast.net", 
+      "img": "https://lh5.ggpht.com/CYwMsT8QTi9g9NtVq5-W3WSRRluGMGDjaZyRawc7-4c6IUuAKsSv5asVpObGso6xK_vGqOlOF3o9KaNMAkT8DzNzNsnXUiqbYQ", 
+      "ip": "50.161.2.36", 
+      "name": "Allison", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/KvpXRtEgvtBx75bDrppwLCIPbxEsVCae7Gm64GQ_A671hhzmoiBZPopcZZMmgpY9tmeS-qIIWrWr0AhHf5EX9GkqbD5NnuGTcg", 
+      "ip": "2601:b:900:2e9:92f:8396:df0a:4dc2", 
+      "name": "Josh", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-76-168-227-77.socal.res.rr.com", 
+      "img": "https://lh4.ggpht.com/wZiy1EDEMPk0ikmTH0-uFc3KdQQlgZJOfxUvJXaEDfRIt_Svr7Ij5OVHnpN0jkNUPvPTMOOUIa2h_YXo83J9oJXSxoAuadyR9v1d", 
+      "ip": "76.168.227.77", 
+      "name": "Joe&#39;s Daily", 
+      "winner": false
+    }
+  ], 
+  "besties": [
+    {
+      "img": "https://lh5.ggpht.com/xZ70YJRo-Y9YnGAX_sK9bCK71UNtdHfAORu7qNkoG9opzXEGJ245h_OG7st4f3hbUyQs4kMkaYkAEmKIdxCFaBxZWuu9lMflnTXN", 
+      "ip": "2600:1000:b11d:d0a6:a72d:df3f:a690:ef81", 
+      "name": "Alyssa", 
+      "winner": false
+    }, 
+    {
+      "hostname": "static-acs-24-144-216-133.zoominternet.net", 
+      "img": "https://lh4.ggpht.com/1TzDfFg3JQ4_1YBmJMEw-LmJ9zDkX95mKKVQklThVOa-MPkjuxPGkpJDl620ZdrdSmM-Wxj-Rvoz8rBpW6H8DMlPnyLzVJpaHbg", 
+      "ip": "24.144.216.133", 
+      "name": "Russell", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/NJSwl2fLrvSxZ3Ey0qYUNvUgBSFlah_yNLlFEoIhZZOv2jIi4pJ-O6yyQSSFl4fiaHRlrk-P1yfvlNyP_FGjgiRrMb1tZlcuask", 
+      "ip": "63.229.225.192", 
+      "name": "Matthew R.", 
+      "winner": false
+    }, 
+    {
+      "hostname": "no-reverse-dns.metronet-uk.com", 
+      "img": "https://lh4.ggpht.com/weZHVqDBDjC71w4bHQ2t7LutKcPRjVpR-MZthja7pwM3BujVSyoIpM_J74wXypYEYoGJYr-hf_vXYz5BWoghF5oB70jzZVcN4WU", 
+      "ip": "109.111.223.116", 
+      "name": "Mark", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-225-49-208.lightspeed.irvnca.sbcglobal.net", 
+      "img": "https://lh5.ggpht.com/M8w9GJFUPUvulfPpqdZUDco9ME6l2P5Jny6QetUF0w-S1BaxXa7u8Lba5z3rEkz8IICPF1kqvHEVexLfwhvirBnzyeuinUp5P8U", 
+      "ip": "108.225.49.208", 
+      "name": "Anne", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host86-166-186-231.range86-166.btcentralplus.com", 
+      "img": "https://lh5.ggpht.com/ywpRz4aI7CzgSKGSnItdVNc376uvawitbWt_hn1gyvnD1T2CiFz2W1qYxPCPmq8PdAB-wlb4laB3snTjk1ahzJR-8dyfUiMOmAk", 
+      "ip": "86.166.186.231", 
+      "name": "Nath", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh5.ggpht.com/9HpE9puHnnmyl3vpF3KC7deqS6boM-YBlJ6PwExfl_8zIKSc2rhn3PVsq-D_ZjC1iuAaainlLfW5rirrKZclZrk2YUPl7Ht-cpM", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }, 
+    {
+      "hostname": "c-98-250-130-165.hsd1.mi.comcast.net", 
+      "img": "https://lh6.ggpht.com/1BJYatY2xZXg_FliKZ9p0-8UN9Z8HvBMNEWy14t29-HufrZc3-bSy12j1uarEqSOpNdzzpYh41KjRsaF6TCzqSRdR6ND7m-RZXQ", 
+      "ip": "98.250.130.165", 
+      "name": "Amy", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/Tj8PbGvdphiP_nfbd40t1CBiMclLXRXoEWBMWFrFDujpYOgGTqnPCj2F7oyYyvKQXFnjULgPk8IRVbFIbsrofoKNQwmUFZlBCIZ0", 
+      "ip": "164.144.248.26", 
+      "name": "Joe", 
+      "winner": false
+    }
+  ], 
+  "cats": [
+    {
+      "hostname": "nyufwa-nyushanet-01.natpool.nyu.edu", 
+      "img": "https://lh4.ggpht.com/SU3MsiwtSJMpP6kEAgS69G9C9raIJ44IuzqZkc2CPlXlcSEvHFCjr_8zvMbsE3sLTytZJkMfB1gxeG09B2q7FrZJr4K2atbrvRw", 
+      "ip": "216.165.95.66", 
+      "name": "Maggie", 
+      "winner": false
+    }, 
+    {
+      "hostname": "71-211-132-7.hlrn.qwest.net", 
+      "img": "https://lh3.ggpht.com/Hus_Ox9HfrGtPxSImmb_8UDHrrRwxavwSHv18Kecuk4aOZj36H-Iccg-lEKUUVVirBSxJuKBhunJIic0bxCqOKaqYCsVupBrZQ", 
+      "ip": "71.211.132.7", 
+      "name": "Alex", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/XSE1BABqtsK4T2Gx23f0tzhkQTlzyMqGRDygMmhmomLeS3gcwSJoJPNb6TcSSG5At-muuSVGLIQJR3Ms4XrJRzjR0rejmiHjP9w", 
+      "ip": "165.166.14.114", 
+      "name": "Gordon", 
+      "winner": false
+    }, 
+    {
+      "hostname": "pluto.brumtopia.com", 
+      "img": "https://lh6.ggpht.com/kMWEQFRSJwEJc8AJAxlIv75OOAJmiDWubmVqmZTGcFeFbgyjmT-VC2k3LLjjdrfe08XZCHlYYqW9BNSd-eHksgl77suhgHQ6XEQ", 
+      "ip": "23.21.201.110", 
+      "name": "Michael", 
+      "winner": false
+    }, 
+    {
+      "hostname": "fl-67-235-166-147.dhcp.embarqhsd.net", 
+      "img": "https://lh6.ggpht.com/s6WUd6opk6TdvpEey7yrjLEmCKrDbUtbpOIG4tU5F-DJjZKLae37nlJkA1Z_eTivcz9D1uHj94bIQr7T4DjKkzBw8RRPGuZf9fk", 
+      "ip": "67.235.166.147", 
+      "name": "Zach", 
+      "winner": false
+    }, 
+    {
+      "hostname": "h49.128.189.173.dynamic.ip.windstream.net", 
+      "img": "https://lh5.ggpht.com/lY8OMlFixgm4RTPLv7xsSaeeFTpUzZzsUlle1oLzZZPf4y8kdFiEwCngm-4jItoDCxgOjSaPLBopYOijcWEZUi0TeCodd-_C4VY_", 
+      "ip": "173.189.128.49", 
+      "name": "Steph", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/XztW4FZItZa-uFYHXAiJ4EqSg3moFUiVtlW8pIo8vdpW-SE6NEEzXs1qSpYTZl2rSfDFNJ3LDtD1_ifSeFuBmUgsiJ9WEaM9nGtK", 
+      "ip": "65.242.92.128", 
+      "name": "Drew", 
+      "winner": false
+    }, 
+    {
+      "hostname": "80-77-244-214.no-dns-yet.xifos.net", 
+      "img": "https://lh3.ggpht.com/PMphvm7fkg5ehGaZed_upU0GI7QxEvew_NdR31dI8vwRwjAcGKWc1hUAZOepJi5C-QDQWqGiutf9NHv8hJV-CvMfe7XYfff5-Kvd", 
+      "ip": "80.77.248.214", 
+      "name": "Edward", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh3.ggpht.com/8k1CeeITv6OuY2a49wIH3bwgbfqBvk-hzcuUweuf7ZHQw-HOQjKjyW6I3PwvaLMfGnyf1xtGTxN-tfGfpE2p0MAt7rPoK6G-HJqm", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }, 
+    {
+      "hostname": "46-64-73-44.zone15.bethere.co.uk", 
+      "img": "https://lh5.ggpht.com/kvKSwAPTUB72OxO4WbJ8cf8eLr9h2Pmv3y_RM4-9PlCpXbyk9Rr9_hz6o2LlN76ocWTWGJKGic0oImBvWpI9NzJfdCXJ9EfOIg", 
+      "ip": "46.64.73.44", 
+      "name": "Jamie", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh3.ggpht.com/Tmr_FKvKXlFANu3b6vSO3L_VTJI65UKMmXwxZYEFhV3daHJDDvijfp4jpWwLRdGHwzDnjV4qTg7nNxFGFwMpGxoQulC253e7lzY", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-98-28-180-57.cinci.res.rr.com", 
+      "img": "https://lh3.ggpht.com/43qF0T8FrWquXBp-wW87xOf21e6a3oKYU9ElnisnC1g6JjzG_2BWs5rtnw5n-z00kNYXCinW8KaAeuFc5ZpSBP9tcwzyG9-6vItv", 
+      "ip": "98.28.180.57", 
+      "name": "Craig", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-98-28-180-57.cinci.res.rr.com", 
+      "img": "https://lh6.ggpht.com/JCVnAEyluIEvA9xmVgnUBbirC7af829ZP0PFqWNdnH4QS1mlQKv0xQmqNbIPXLX7FKLY-pauK_EYe85FmwPoj6CZUgK0ymXpqA", 
+      "ip": "98.28.180.57", 
+      "name": "Craig", 
+      "winner": false
+    }
+  ], 
+  "computer hogs": [
+    {
+      "hostname": "76-219-255-11.lightspeed.sndgca.sbcglobal.net", 
+      "img": "https://lh4.ggpht.com/JKLK229-3NbS_DqHtm2Arejkryrpo3LarFHEHtZ50XUofhzWGdoC8LTbFukHm-3XNVYhA5kh-7cgxSJauAkFeNyl6h6-KYyo9iM", 
+      "ip": "76.219.255.11", 
+      "name": "Parth", 
+      "winner": true
+    }, 
+    {
+      "hostname": "50-202-52-122-static.hfc.comcastbusiness.net", 
+      "img": "https://lh6.ggpht.com/qlrB8wAW2u_9brnMNb7jAjMfPeeSQpgfZdHn6S6EKJpH__zIbUlT14_a9QxpPBZWac4cMP7TH747M_p0NNYdOsPoeqFe3Mbr0KZj", 
+      "ip": "50.202.52.122", 
+      "name": "Kyle", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh6.ggpht.com/p9t1X25tkvTxeQqGlWdeH43mjpuVVS0UDBut_M4fHnNhKqMVeP2-0-6-GuRR3m531LzUEtzRtcGAsfYifo68aQkL4XBSbZ2Gj90s", 
+      "ip": "72.25.157.194", 
+      "name": "Eric", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/bhGYhrlBRDmU84XipFqDUfw0pQeK4yaNczJ03WMDDdGZk-RZzpKDT5RKnztAhmII5xukiZhoGxAmdcu49Utp9EIKowTUFk4PxYU", 
+      "ip": "129.115.2.49", 
+      "name": "Saeed", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/VZ79oXbyg2x5GsHCQDEnqFcRJ166KD-UkP8fzIJ0FVXQDCjfmQ60a23-nxeYpet5DmSCGeQqIVqwyCh41O8pkOoB3UDA3FFBg_ei", 
+      "ip": "66.232.234.48", 
+      "name": "Ivan", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/eUpKFeWt6gu1fI0QLxHJol-TcCCkqxuVCcyBHTl9vkVUQ-Jdkpbspib1n-1Jty1kLFiREiKfCudpf95hdakGpzwjmaNO-9ozhF0", 
+      "ip": "67.108.162.100", 
+      "name": "Blake", 
+      "winner": false
+    }, 
+    {
+      "hostname": "res380d-128-61-87-220.res.gatech.edu", 
+      "img": "https://lh3.ggpht.com/HFIttCdSOVQgFetvB05w-oy5dgSessAwO9NyrV5EAZW7SX4_BVsOxfO8b_pxE1yeLqPKEa9veMJ67S1NCKXWQ-zNVsVIpmhUDI0", 
+      "ip": "128.61.87.220", 
+      "name": "Cory", 
+      "winner": true
+    }
+  ], 
+  "cryptic updaters": [
+    {
+      "hostname": "93-96-112-149.zone4.bethere.co.uk", 
+      "img": "https://lh3.ggpht.com/KJ8uboTao9Df5FktE4i-EaeTpcR-ewpdh0OR57Sl4j5rvZoZCFxV7Io1QPPwKtTsekcOhGUGULfsP3r6hZRA3fFWhgz-Y_G9Ag", 
+      "ip": "93.96.112.149", 
+      "name": "Chris", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh6.ggpht.com/qLINBPRLhURQ82P4NAEcm5UOB4zQoibAynF3YYTyMM9Jx8xjpoPIlbJvrxhJIUre-YIDAsAWzoXL5JhzXzCZbnLw54KBSFJyzg", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }
+  ], 
+  "devoted dads": [
+    {
+      "hostname": "71-211-132-7.hlrn.qwest.net", 
+      "img": "https://lh3.ggpht.com/oZXWcLFuAcZJodbFKpmwxFX-AEpZS3FzUTFuY2uRKDKG3p1UmjFrODebIk4DZCpLlmAdNGWbVZSbNd0S7mfeqaTCuCMXHNOgemW0", 
+      "ip": "71.211.132.7", 
+      "name": "Benjamin", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh6.ggpht.com/s-qTGEAv2DQq_DMaqhO_5f0aU3Q07GFhruqAKlGwPtVZU-qd2W9AzOLfpcebpoCacLaY0CSWEdqfCFjU66xaEXXopaw5yKpkHA", 
+      "ip": "67.108.162.100", 
+      "name": "Blake", 
+      "winner": false
+    }, 
+    {
+      "hostname": "ip72-208-176-147.ph.ph.cox.net", 
+      "img": "https://lh4.ggpht.com/6VuGVg3M2Pje4LY81CKke7GY6PeAT25E4SHo7KgVUhtBhi46cgyOdvQ3D2NlPy8AAznB7RqABKhS2vPO6NPnBIanDGtNa_vWXGo", 
+      "ip": "72.208.176.147", 
+      "name": "Angela", 
+      "winner": false
+    }, 
+    {
+      "hostname": "5e00cdfd.bb.sky.com", 
+      "img": "https://lh5.ggpht.com/8MXd9d46fAFlgQNbvFKiTZhIN9PDlafpPIy2ta7geEHuViwvzGP9XnWyaqs6EAVnWqIhebPB122eYPTPnNxL2r9ZE3WQD0sSmg", 
+      "ip": "94.0.205.253", 
+      "name": "Michael", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/DSErc0QRECO8pPiiaM8rh35KF3Ejr8zBwTx5Afm-Fjl4nwFQVtSzZEKrybfZHWFcU9Yj3zPlyEeaHRJtiedGC5_R1DvFnHIqNBE", 
+      "ip": "2602:306:c51b:1080:84d2:24e3:47a5:b262", 
+      "name": "Chris", 
+      "winner": false
+    }, 
+    {
+      "hostname": "ippool1.sf.akqa.com", 
+      "img": "https://lh3.ggpht.com/ktS79_ATDTtqw0eJYqkn4y5EBe709e98Z5upLqLqWG0Yq4zaHP5NaMcwwDJzWrGGIt6IBuhSXNpSpF6tlTWRNC7Op7ieS1k2qcA", 
+      "ip": "204.90.10.3", 
+      "name": "Richard", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-203-200-208.lightspeed.mmphtn.sbcglobal.net", 
+      "img": "https://lh5.ggpht.com/SBFrwQtsTWyaQaOW-RzDq_-vGF6TbWLuXdyPzOrLAyfocjGlWiuKCZ9o3EUFVRVQk0u7OoamHkblrF58ao9Fz_WBjkxVoekM2gjs", 
+      "ip": "108.203.200.208", 
+      "name": "Trevor", 
+      "winner": true
+    }, 
+    {
+      "hostname": "host86-184-80-113.range86-184.btcentralplus.com", 
+      "img": "https://lh5.ggpht.com/OAweGIPMH634Wq8C74doo4cne5T_YZuANu1ux6_o5m_pja3_ReFZQM-sYl1QR4EvuYpNzG2hRwWwcdqd_Vaoz5Z6HoO0cwm0ACga", 
+      "ip": "86.184.80.113", 
+      "name": "Sean", 
+      "winner": false
+    }, 
+    {
+      "hostname": "ool-18bbed4a.static.optonline.net", 
+      "img": "https://lh6.ggpht.com/Ks5t4il7Dou1qIsylr7q6QYBtzqrc-m3pwM10RjDY2MIVHxKsBhBanhgTclGKjLAFe0eqtrzMyVMSoCSP3ulNyOxp5xCMcGD1g", 
+      "ip": "24.187.237.74", 
+      "name": "anthony", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-74-78-214-13.twcny.res.rr.com", 
+      "img": "https://lh4.ggpht.com/gs0GisYtjvovlbZyvVZDgfj7ZIGo6ht6oGQlFiNiw286ll1QNTsLvADTluL2OXQ-cyX1rLWWHWl-CB2yBUwmhK0kOfTpjr1ihQ", 
+      "ip": "74.78.214.13", 
+      "name": "Brian", 
+      "winner": true
+    }, 
+    {
+      "hostname": "rrcs-74-218-102-43.central.biz.rr.com", 
+      "img": "https://lh4.ggpht.com/ew_Amt3HeuoQnSXnSn0zJKuvVTBuewX22ZH0ly-QyyBtfEsUzq2kWgQM8gcwJD-W0E7g4gPq3YBNbuvHQtZYSdkxL2c6JcN8WLs", 
+      "ip": "74.218.102.43", 
+      "name": "Thomas", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/f4tLdcPzmPbNoOxP4dkcR-c1FHJMh1ERUltZ8nszSvNzDMD0-JBoxG0QeGBvuzeDjjKfFQ703mu1KN4lrOU2u_5Yb5Llr5YMT-M", 
+      "ip": "68.153.116.88", 
+      "name": "James", 
+      "winner": false
+    }, 
+    {
+      "hostname": "50-202-52-122-static.hfc.comcastbusiness.net", 
+      "img": "https://lh6.ggpht.com/oPn0kpUleilHOT0qEcBn9orcYzn4vbFsilCxlOrLipifP0J6FKJt8SBrLxwMsQUWOC6Pp-AgJFqqTgcG9JeBV-s_MrNGvV0YBA", 
+      "ip": "50.202.52.122", 
+      "name": "Kyle", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh6.ggpht.com/Nz8WXhEWO_iVZBuCF4ZWUdaeNYLNv9We5dsAGK78atGxVJBamxKMKFvxT5uZ8Z8WE8XHm63MmjFBbmckJLb6ufxWFEbzixPzTA", 
+      "ip": "162.95.159.23", 
+      "name": "Gary", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-static-sterlinginvestadvisors-rtr.cmts.sewb.ptd.net", 
+      "img": "https://lh5.ggpht.com/ZkoqGbrNPvYFgLvfnOgCNEhhvxJ_jnnAgbD5U6knB6UcaDpqVymMi7d1k_WOPv7BMTvw3Xblmx2wBXgCFCqD6NhyYi99tUx_qC0p", 
+      "ip": "66.152.136.128", 
+      "name": "Robert", 
+      "winner": false
+    }, 
+    {
+      "hostname": "rrcs-76-79-224-180.west.biz.rr.com", 
+      "img": "https://lh5.ggpht.com/A9ObPUrAjmw1KrUZi4qbDe9naNvEfvLTr18He0nnUXEi3pTULBcrUHM9oAr1g_sMs_oDknOZbn-Ibi9-_47li6FJj6ql-dga31k", 
+      "ip": "76.79.224.180", 
+      "name": "Jorge", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh6.ggpht.com/GFok8t7yqHHDIbhDWKFiR5HYWLCxXFKOBuNJ5PXCS1KNFBwTJb7gG18mOS_qfSb9y0s2Xkxmp2Mn_CyozPcVUJEo_jnfQfhXCqM", 
+      "ip": "173.244.130.50", 
+      "name": "Tyroniuz", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/3_fTFwFyy0Fav_5GoSBqWuqxFzbFc6mZDiaV5i7UgBUpq0sl9rhGiYIprtfO2PQjNliINkS1xg6VgdeyZOz6GWp6RL-2fhnNMTTD", 
+      "ip": "65.242.92.128", 
+      "name": "Jamie", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/1fm5DyB4FpAE24pbMz48m2o1pX26vZ-8EspirZLPIhhjQpL7bERrZAVryIErLX9sQycdVdb26L5olx6bLGzf3dixkyYF6_sx8Q", 
+      "ip": "180.94.73.12", 
+      "name": "Christopher", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/baOME3wstZujCNUcDN3meChJUw0lDk70h2_oklQFsFpXUNzdA6wJ1vlZAAib0B_haUuhF4cUgPnCj16Fc47zGJm83_acW0NuvBY", 
+      "ip": "87.115.151.239", 
+      "name": "Robert", 
+      "winner": true
+    }, 
+    {
+      "hostname": "c-69-248-137-113.hsd1.nj.comcast.net", 
+      "img": "https://lh6.ggpht.com/TAUod3Qc0JJQnd8GIbtpNapq2IizRkj837fIlYa0zdAJ1q8cfoj2PZ5qQLs04MFvHHHXPM9NX__ZWSsDHo8CuKMLxySLH2z4pZY", 
+      "ip": "69.248.137.113", 
+      "name": "Eric", 
+      "winner": false
+    }, 
+    {
+      "hostname": "5ad84e58.bb.sky.com", 
+      "img": "https://lh3.ggpht.com/ZPWdxN7cb9inW029wTZ0jl6WaEWHTLl7znJtsG0jjGDyY7TTwwEi3yP6taDlbTxWHRSHn9JkK-nc4hDN9GxLoN1m9FiyFlgiwxY", 
+      "ip": "90.216.78.88", 
+      "name": "Brendan", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-67-249-14-70.twcny.res.rr.com", 
+      "img": "https://lh4.ggpht.com/_rT8mT0oawmcTkx1sZXvFkCKKuqWRFqRhqWqpqXTmfIbtJNzdy3pjqr2JsPilYFiOnJnhZVZOXMjebW7oR7QpsO1quI5zRgEYUk", 
+      "ip": "67.249.14.70", 
+      "name": "Bill", 
+      "winner": true
+    }
+  ], 
+  "entrepreneurs": [
+    {
+      "img": "https://lh3.ggpht.com/HnzwXCnclqtZDVKKH8VcErvqDLl7rNxJ9ypCyBXTESvCU0MF6VNn3pVdtuRrOxyL4p0q-YiJ9pu9-qvpJTXsw_RHS3043oZMJjw", 
+      "ip": "63.229.225.192", 
+      "name": "Matthew", 
+      "winner": false
+    }, 
+    {
+      "hostname": "c-71-205-143-124.hsd1.mi.comcast.net", 
+      "img": "https://lh3.ggpht.com/mMTwVBk406dxuDNG1yc9gz6h371PJB0n_Md5bSUlwU8ke4g6CtvZLMxcgabsUAh2vI-y9ma89_zjj2sFfq2954WjH4dFuEOXENOy", 
+      "ip": "71.205.143.124", 
+      "name": "Nick", 
+      "winner": false
+    }, 
+    {
+      "hostname": "68-188-96-164.dhcp.stls.mo.charter.com", 
+      "img": "https://lh4.ggpht.com/VoDq7g6xa70rD8zcY6uIW-KWifnm6r9BvzKipwIlIy1iH2yEKgsAIsy459zYiT6T1awnAqcU2L9q1Mrv9Qor8RbCUsfndEwHZQ", 
+      "ip": "68.188.96.164", 
+      "name": "Christopher", 
+      "winner": false
+    }, 
+    {
+      "hostname": "ool-6c3a96d6.static.optonline.net", 
+      "img": "https://lh4.ggpht.com/7mvtJC5pbdMQ-YcoSZakSWIWeeum5EG098anjRLBMa9G3GOLaN8k-lv3rFn7wKI7nrGprvBm56QenwI-Ry50K9swe7XM5vc-uhRU", 
+      "ip": "108.58.150.214", 
+      "name": "I", 
+      "winner": false
+    }, 
+    {
+      "hostname": "h49.128.189.173.dynamic.ip.windstream.net", 
+      "img": "https://lh3.ggpht.com/GEYCQQ2sJTk6SDdR2mGzsi8v3REajISQ9JbFjvOJ5uQKkyUC_eYVENRa9u2fP_PqWflCHoCHe8jqltRvuWF9aMAOiV6dhnvC82YT", 
+      "ip": "173.189.128.49", 
+      "name": "Steph", 
+      "winner": false
+    }, 
+    {
+      "hostname": "233.23.125.91.dyn.plus.net", 
+      "img": "https://lh6.ggpht.com/U-0JGrgVOgIGqWgblfGoCxRyXzcJbejjlG0-05nqR9nt7iFVlG5nPSabb3Ffj3biid3NixA4qzzoO8ilbOlNpVTVSJ-CB0tpYvo", 
+      "ip": "91.125.23.233", 
+      "name": "Ugo", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-98-28-180-57.cinci.res.rr.com", 
+      "img": "https://lh4.ggpht.com/kZz1Y83XMq24ROo_zEFcQw6UOI5cIF2n-tvZAisGYnKgJqcqDW8CQHr9ztzZaNaJQEo3xYgfNaozmazLdURx10vXtptPyNvUsfQe", 
+      "ip": "98.28.180.57", 
+      "name": "Craig", 
+      "winner": false
+    }
+  ], 
+  "explorers": [
+    {
+      "img": "https://lh6.ggpht.com/NgOGZqB4oCjtJUwDw6w176BKaZ2dH6f9eBhginHgXK4wCVjk3XpTjYlE1CG_8ZhODI0gJBzG581MWq3ooMTHNEEqoY10mUcViepC", 
+      "ip": "172.56.10.9", 
+      "name": "Kushal", 
+      "winner": false
+    }, 
+    {
+      "hostname": "ip68-96-232-119.lv.lv.cox.net", 
+      "img": "https://lh4.ggpht.com/-N52-w93cvvt7Zk2TlPWD3BAQRbYfgNH5t7bi4b8VrgIOMBJZodcFBMdyvprS4ng6EsKYL0iyxFKmEY-gWUVxHu_323oIYXbOQ", 
+      "ip": "68.96.232.119", 
+      "name": "Bob", 
+      "winner": false
+    }, 
+    {
+      "hostname": "generichost.ria.army.mil", 
+      "img": "https://lh5.ggpht.com/7A5wp57pvEUxP2OiqUN_PftHIibuPpud49Trwpd68dJ_E45_-rvA_crfATmtyKpE-XxDzWQ33VNOibbWnMQ6U-SBNfVn6z-k5K7z", 
+      "ip": "150.152.43.254", 
+      "name": "John", 
+      "winner": false
+    }, 
+    {
+      "hostname": "bastion.doj.state.wi.us", 
+      "img": "https://lh3.ggpht.com/V0YxXnGXLxYFHVWKy1nAK36lTJAMkzGzTQqvoEzHjnnrmKqNt9QO53Eo0wh445tzogFPqLFDKFdN-3Mku66UiVHXdUT6RMXNRT8", 
+      "ip": "165.189.7.2", 
+      "name": "Luke", 
+      "winner": false
+    }, 
+    {
+      "hostname": "dynamic-acs-24-101-75-233.zoominternet.net", 
+      "img": "https://lh6.ggpht.com/ZM4Lt2suDigACDTvWCn7-2MkuMACmdhaTEv5NpQ9Tdd-IBQdmKNCXiZQ0h8FSzIqvi-zBB3jizfm4a-um-qi7ke0gAjkHDschgSg", 
+      "ip": "24.101.75.233", 
+      "name": "Sean", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/uwvQLzbhNv3A-8zDNCurEcPIVipMpa2-U02VcJTDHx-8ID-GDHbbQlMe6pYrYTyObdNkNqe4CvTh_H40RGzLsO0cp2AkQi9XiVY", 
+      "ip": "2602:306:3627:d1e0:b5ca:95a2:9928:5a7f", 
+      "name": "Brigitte", 
+      "winner": true
+    }
+  ], 
+  "film fanatics": [
+    {
+      "img": "https://lh5.ggpht.com/5LnEK68cVD_OzFkrDcBylRrfcAw622DVlaXZkNrfaWtKvLBy7BwaXvr20JDyJLJQl6EDWTuyXYc6tS7aXl7B07vGytD3_AhnIpo", 
+      "ip": "158.59.233.219", 
+      "name": "renee", 
+      "winner": true
+    }, 
+    {
+      "hostname": "fsm-asa.fas-mart.com", 
+      "img": "https://lh3.ggpht.com/RNlJjECRFim7UtMeTB8ZXFGNzA7Ku70p1SvklXhtkcIrryk2VvERQEEbb3GTckio3r7mf6HArrGeq4ybYfDZbidBmtvP1E7tlg", 
+      "ip": "66.255.175.99", 
+      "name": "Hunter C.", 
+      "winner": false
+    }
+  ], 
+  "food documentarians": [
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh3.ggpht.com/QhvB32VHrTZDUvLc8oDV9UW598orrl1vnGUh8Y_ULugj4fyfYu5Lg9bbat_ZrgsC3APZesLa5jXs_aCGdPjFuPQfSAJLIyr1JPM", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh5.ggpht.com/TNZne-RHnsC39aE9pzDRsbBI5JiIVgukWzt4T4YrOm69TEwmeXX60XhrhdEg6S7hRC65LQMnrHPfFwIw8yVw_3W2J-f84sTE8oQ", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-2-96-142-3.as13285.net", 
+      "img": "https://lh5.ggpht.com/dv_OR4nvWg8F3LstRSzVgtJuMmXPkGEJf47SqlDOgCaSm3qcW1kYQEmDqC2C4u_0YgozJgg2qAvVD7zsO5AyjDpTzHWwyVb1vA", 
+      "ip": "2.96.142.3", 
+      "name": "gerson", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh4.ggpht.com/QDlqrbVNPbRHDVg6mrg-sWyYikWEbMn4OADTMXr4_v-dwexdcEexXNSOdUedj3BmgnEwEKb3xmGiDiVGJl13aOPr2xQmvhNqlL4", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh6.ggpht.com/RMQ47y6nRvNlSPQ3WmUAGNuN8IGWwAIicxTREmPKCU13GGn19C9ZtgrRaTSyICzRoG2L8MfHPS8bVIBOO8N-kVEbxVPj4Dl5MTc", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh3.ggpht.com/VhV_M1Onq6_XHMU4uNB6QNk5iGx1nhINfJmNxF8JHL7lF7g7RzftBv_icsu1k3kvmhxgsv1duzUG_phjqE1VvXYxNfK5wkKleVU", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh5.ggpht.com/YAtCYNoTZs8CKlCwhDXNXANB0ccIJCQK5Rye_H2C3xvXIUH5TJAlrSiO4io5qSSX3biGxIAy06K4Rq0m883JCuRmWbrOFoXUbt47", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": false
+    }, 
+    {
+      "hostname": "66-192-59-3.static.twtelecom.net", 
+      "img": "https://lh3.ggpht.com/-0dYNrFfxgubTuJlfMeHpBE2qYNru3q7ttXNAcD_Pphn6M-LUUqxU6KVJSise-UBbJKXzGyXB3ewTn1BPMgh0IRd1A10FitsjzY", 
+      "ip": "66.192.59.3", 
+      "name": "Tommy", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-75-83-244-17.socal.res.rr.com", 
+      "img": "https://lh4.ggpht.com/KSBiUGuNg0vUsdMQl7LTyJaXS3LLbZpAKRvUw3mJijp25DKfRisixdnHJzQzZFfJJi1tQb_O2mi-tr7wyA9lvYJxIJQFrEa1HLM", 
+      "ip": "75.83.244.17", 
+      "name": "Tom", 
+      "winner": true
+    }, 
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh3.ggpht.com/W9pOg8-LN8pgNXkHoOUXZ58OLJToevBAzxzu4TqDoM8CBbui0YA4g68I_3sbDnh7jWEvjbIaqDPL2WKaLOZ22f0mnKGFwdjOI7c", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": true
+    }, 
+    {
+      "hostname": "24-107-190-30.dhcp.stls.mo.charter.com", 
+      "img": "https://lh4.ggpht.com/xsVt7c6bqPFUCAJiFS511ptGwpogUDcqdTCKmSZcMGA5XA2iV3cKyNcuFfSzIIVqhJReEWl9RBDshbumMSseeSQLnyegB9hNlA", 
+      "ip": "24.107.190.30", 
+      "name": "Justus", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-70-95-134-241.hawaii.res.rr.com", 
+      "img": "https://lh6.ggpht.com/Yq7v_ewEF4eRfNeUFLFNO7_IkjNMecHf_Gx3TePuR0uwdiJn2THPaln-pYKlu4NiQk8w3gn3PwDw9_Y3KUT4YnRDwrsOFkxF5w", 
+      "ip": "70.95.134.241", 
+      "name": "Arbine", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-225-49-208.lightspeed.irvnca.sbcglobal.net", 
+      "img": "https://lh6.ggpht.com/LoyrxWdr0nxvlDZAnQBjdG0R3bbPFNmbVnNygEKSIWYV3LibD4ut_7h2vSXiPpWqVCp2eC8LsgfZKRoYSOMcXzlQr4fm4UTbxw", 
+      "ip": "108.225.49.208", 
+      "name": "Anne", 
+      "winner": false
+    }
+  ], 
+  "keen collectors": [
+    {
+      "hostname": "ip68-99-243-210.ph.ph.cox.net", 
+      "img": "https://lh4.ggpht.com/w2w7ly7NLCHjuCmwdbGr-TPEm3UDvqkKoDxTJHLWythcl7sqbB_XfKll4gwE2bwBXbHu8BXad4abbI4zeKe08jwHK4IRDk6DPmU", 
+      "ip": "68.99.243.210", 
+      "name": "Blair", 
+      "winner": true
+    }
+  ], 
+  "link spreaders": [
+    {
+      "hostname": "46-65-48-209.zone16.bethere.co.uk", 
+      "img": "https://lh5.ggpht.com/WUaN58jcwkeRbwcPKWMpEmvfxxgaHhIwz3Wd0jWfF64nnikWTh2JGckeyjfweFVjOKyqv_8dUEYf65GzK6mxRvvwpUCjN2ICGfeZ", 
+      "ip": "46.65.48.209", 
+      "name": "Ezequiel", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/CWDzKBeVzAUZ1tvnXcWiLtt3xsPFD2oncL_vUyX6ueQdFuTpUXGKzaI4ctwUo4tuSo1kQxeYmyFjAx6ZEpM75uNxcmIleZqHe1c", 
+      "ip": "2600:1006:b11f:1681:6444:174f:22d7:53a4", 
+      "name": "Marc", 
+      "winner": false
+    }, 
+    {
+      "hostname": "24-107-190-30.dhcp.stls.mo.charter.com", 
+      "img": "https://lh6.ggpht.com/QLS39BiEHOuSddtdnx38xA3zcuf13Tn5epVCZUNjJCOh7w5oyUG7sRBh6TXT6eYZKDV3wRFQSZDd-UAC_NreDl9ek6MZ4QWrsYk", 
+      "ip": "24.107.190.30", 
+      "name": "Justus", 
+      "winner": false
+    }, 
+    {
+      "hostname": "66.236.121.90.ptr.us.xo.net", 
+      "img": "https://lh3.ggpht.com/GQSiTXOLWGorT-dezfkAL6FyA6CE5DjuaV1YZRCyn1l4WswKgMM9LCHoOgWhVwlroUww176FZhIgg_wgpQStCCFOKlKmPiqNsuO6", 
+      "ip": "66.236.121.90", 
+      "name": "Addison", 
+      "winner": true
+    }, 
+    {
+      "hostname": "c-98-219-118-167.hsd1.fl.comcast.net", 
+      "img": "https://lh4.ggpht.com/QA4kJ7waN_K7Zu-qKEG-MJDFlqG4PkqvV4BEt5mAbMySAJeSZwFTATSN4EAf4TxD7d41RREO99Qnx3HF84XT_ewheuGESmoGeiTt", 
+      "ip": "98.219.118.167", 
+      "name": "Art", 
+      "winner": false
+    }, 
+    {
+      "hostname": "wads-3-228-29.resnet.mtu.edu", 
+      "img": "https://lh3.ggpht.com/dtxxF9E1ejbpHvCnJeSDyPiGGqWTWwD3Jh0274yMCT3fC3YSpME0G5QGkj_iEGJ6IRtjLFbG3waB8Cg9fZFe84-MtGNeY1S5fH8K", 
+      "ip": "141.219.228.29", 
+      "name": "Todd", 
+      "winner": false
+    }, 
+    {
+      "hostname": "c-98-231-149-5.hsd1.md.comcast.net", 
+      "img": "https://lh3.ggpht.com/BNgx-l1fq2pNzFdP2nWO-YOZ9FgLl21lXdwxZ8g1fLJsCxWBQjQcPOf869M9YWSucPJFmpUXbsgCsXC-0K4Yxdqm6S83so5rug", 
+      "ip": "98.231.149.5", 
+      "name": "Christopher", 
+      "winner": false
+    }
+  ], 
+  "music evangelists": [
+    {
+      "hostname": "c-98-227-110-118.hsd1.il.comcast.net", 
+      "img": "https://lh3.ggpht.com/kXN9HcotUp_pa9gY7VUmxNuVOfkRMmQNt2cv97HmYPkDDbzxsNCXaMds5DA-GqwrqXlBwgPhljvVzFhWc6foVhQ47jPT7ZQtlcM", 
+      "ip": "98.227.110.118", 
+      "name": "Stephen", 
+      "winner": false
+    }, 
+    {
+      "hostname": "199.102.117.106.lightower.net", 
+      "img": "https://lh3.ggpht.com/i0Wcoaeji8CNaB7Swsp8prRXnNB5jewY8rR1YMzrFIcpESplMU4eetfayYMcLg_cxXPIh56gZsBTaf4JbzNf9VKoYqUNvho0-Q", 
+      "ip": "199.102.117.106", 
+      "name": "mike", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-225-49-208.lightspeed.irvnca.sbcglobal.net", 
+      "img": "https://lh3.ggpht.com/dpB2wi5IVr55KBHtctvMXdQS6rxddf74yBYgVnvwc7vm7oyA6dSkTanQg75k79WVW1K4TjG4RSuBpy1-17v3TSz1UxHnTAwaLoa6", 
+      "ip": "108.225.49.208", 
+      "name": "Daves", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh6.ggpht.com/6-qSaPEzCOffxWoib6Ssveti2Y9Wxuc-l0_btKPXH7LSRFss3jexOY5s7vMrdw5bmyIxxMHeqNLzzjaY1klqpFwck8-YTXywmw", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/6H5hjvfLCl9NrkK8IhRRJOIPj2mrpxgjD5atqYASArrcKlkXXyIuL1HSa2RVRlTBDCyKBZ-Fpi7ciVizaaoa12iM8mfE6K_S1XiE", 
+      "ip": "168.212.126.21", 
+      "name": "Jake", 
+      "winner": true
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh5.ggpht.com/qXL0RgxCZwqwDUXKXYCRgNkUfu8lFrUsPUXRzXj2kZlxsyeQN-As4-xmGnw5gz1NwIx1GEhKr4xpozqv_FWFY04_4WXL4ZdJN4XE", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }
+  ], 
+  "news junkies": [
+    {
+      "hostname": "pool-71-100-75-93.tampfl.fios.verizon.net", 
+      "img": "https://lh3.ggpht.com/oouMKuRLfi_MrKk-ceAzEHDozXfLP5Nh7C7lBdV1HsUadmnh0iZT_liiVJMgIi3iUgfhmcwpzWuXO9_aGkkzqZWklj1LAn2qwXc", 
+      "ip": "71.100.75.93", 
+      "name": "Michael", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/7Ixv3D7mPYTelyMbTzi57jkBBytqjLkL_2LyaIB1yPhrkbf6gPurrPi1cbB-nATvGXpYvOeALKFJt53VGCCR2sR90AcSGUC37lS1", 
+      "ip": "205.185.99.20", 
+      "name": "Jesus", 
+      "winner": false
+    }
+  ], 
+  "night owls": [
+    {
+      "img": "https://lh6.ggpht.com/_C30CZWwqpwJPd961iQyCO91HXx1CubOEVxoP8rJSBsoqX-kVYJHcLQYkNw_GzUmmsw0CpevmUX6vEsYPE1uX_cbwdwg7lP8gw", 
+      "ip": "109.175.228.82", 
+      "name": "Alex", 
+      "winner": true
+    }, 
+    {
+      "hostname": "ip72-208-176-147.ph.ph.cox.net", 
+      "img": "https://lh3.ggpht.com/Me9N_oIugmCZUxUH7zn6AV4tSKY7GguBno7Jd922dmGl6uuD-dQV_P5A-XU2d-Am_xQbEqEL5VUuXPqfwyf9fpzNxa6Z01JN2g", 
+      "ip": "72.208.176.147", 
+      "name": "Angela", 
+      "winner": false
+    }, 
+    {
+      "hostname": "pool-71-177-210-136.lsanca.fios.verizon.net", 
+      "img": "https://lh4.ggpht.com/bqbyuYU3ZX5DI9TBpybxsKUAZc6ldMdDbXbSGIbWhdrTRIFASn-WfNQF_xEyPQXyHB8srj1uqJj2O3CTHrTYhEJPcDUYrsKyvCg", 
+      "ip": "71.177.210.136", 
+      "name": "Fadil", 
+      "winner": true
+    }
+  ], 
+  "photobombers": [
+    {
+      "hostname": "50-202-52-122-static.hfc.comcastbusiness.net", 
+      "img": "https://lh3.ggpht.com/Z6ToV3oLeE2TRGpJM4SfKxsXBm07wAujWaNe0URS7k5RJ78ukIEly5omh2LQZOPAQKw_ceK_JOnrfx35BAq7ihfYEQpYXI3QW7r0", 
+      "ip": "50.202.52.122", 
+      "name": "Kyle", 
+      "winner": false
+    }, 
+    {
+      "hostname": "proxy2.si.edu", 
+      "img": "https://lh5.ggpht.com/jScqozxq5S2YZsIOl5CIHfujt8Yi8aFl8XyWKYm__wW1k3F4A22La-zjM8jkP9oy9XaG-_r6EeJ7u8HkLi2UJKzQ0IzQSeY2vaoY", 
+      "ip": "160.111.254.15", 
+      "name": "Emily", 
+      "winner": true
+    }, 
+    {
+      "hostname": "c-98-227-110-118.hsd1.il.comcast.net", 
+      "img": "https://lh3.ggpht.com/tFvAJTWCcqUyPw4vXlc82HxCq3WsA84uFDN_u1w4-ne64QSXY2TBLg2O3AApluvYXK0M4x2LHmWii9bj_6TQXrl29vmIEuL-Fg", 
+      "ip": "98.227.110.118", 
+      "name": "Stephen", 
+      "winner": false
+    }, 
+    {
+      "hostname": "75-128-123-47.dhcp.aldl.mi.charter.com", 
+      "img": "https://lh3.ggpht.com/YzD3XgTHJU00UhT18y0mzeobI85RLXmrWPUPAgD3aDOzXI1Iwd7GJLuS8nLkelrBSuOg3yZwCd-_hrrvEVSoOuSa67U3uorDjw", 
+      "ip": "75.128.123.47", 
+      "name": "Ben", 
+      "winner": false
+    }
+  ], 
+  "savvy grandparents": [
+    {
+      "hostname": "216-15-124-228.c3-0.sbo-ubr1.sbo.ma.cable.rcn.com", 
+      "img": "https://lh3.ggpht.com/PSltiDTY8mzsq2YCgon7ITklK1U97UHS9kuxtXQU8DWsIrP7U9xA0xqhjsC6TGyRWseNlQCmiCXqM1wwM9aWKPCD92OA3wNV4A", 
+      "ip": "216.15.124.228", 
+      "name": "Joseph", 
+      "winner": false
+    }, 
+    {
+      "hostname": "97-122-122-45.hlrn.qwest.net", 
+      "img": "https://lh4.ggpht.com/6VLAhCiTSjfUcyc9AN6m4RVZJIxLhOd011H-ypAS4ReRv-nBBigQqgXlAfN3Xkq52PcjqGXBSCnGabejY5KyB8bgIdRkHS9wYBOu", 
+      "ip": "97.122.122.45", 
+      "name": "Matthew", 
+      "winner": true
+    }
+  ], 
+  "selfie fanatics": [
+    {
+      "hostname": "h-72-244-52-210.snfc.ca.megapath.net", 
+      "img": "https://lh5.ggpht.com/VhfHIfNJFBtYFv0Tm2mscxBfwhca6Qd6CLe9d6MgMKCszHSh9aGMNCurR8Gc05ghiVwrk_VfEoUSmGEDLNF5Prk9ffpyGGYJJfg", 
+      "ip": "72.244.52.210", 
+      "name": "Jose", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-74-71-41-249.twcny.res.rr.com", 
+      "img": "https://lh4.ggpht.com/HlrXYGcbY32qZst0nH2lYzfRG5mYUeE2YUp3KCyHhMCdQTAxZ7BC7VOIx3UW2-5d7EPQ0K02ZdX7p2InOnN1U2pqEiBymEIwVA", 
+      "ip": "74.71.41.249", 
+      "name": "Antonio", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh6.ggpht.com/UFcIsr0tv1rDGWc5b5uwmauTjt3Ypvmw33YsyPrdSrZmzhj-ZEg-7Q8t9KwJlMXRKmtDrXsLhMfCmwmjTwq1TIYuN90iOwAeUvA", 
+      "ip": "2620:0:1000:147d:54f:2e0c:a93:6e66", 
+      "name": "Gaurav", 
+      "winner": false
+    }, 
+    {
+      "hostname": "tabufandah.oit.umbc.edu", 
+      "img": "https://chrome.com/giveachromebook/serve/AMIfv97TIxUjQQCjyhT_dvCmcWanrG89Dbldg8kD1JVxXsCCaqb-1fBOrCcX_DHTR6i6uSWIqbi95oPPtRxmnnGSjYxdCo-ejtm_Af8mG736aZR1AMTnU5xaOeTr_Jd-1Myileie6WZPpYyvX72WZPZbc0Tn00XPlEDqCj5CjA683A49OsTzM-E?", 
+      "ip": "130.85.70.130", 
+      "name": "Tabitha", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/5QtNTk-vLyzFPKbz7gRZ80hiDlMYImv5u4Aje3BG7UCAlaMY42E8-jmmSfPutVHgWDJ0woPxGpIkCWpLvEVuwanURY6Log-b-Jw", 
+      "ip": "2600:1008:b028:eedf:6010:9565:a5d7:163b", 
+      "name": "Rick", 
+      "winner": false
+    }
+  ], 
+  "shutterbugs": [
+    {
+      "hostname": "71-211-132-7.hlrn.qwest.net", 
+      "img": "https://lh4.ggpht.com/jNPJu1xAXygV-OB36FOBNIbV9AChqM1L8-TmggraPxbbHIpqwsN9MLZMW2z2vBCInZWyoKTYb95jVtb77uS9WZ5PyIG1BSx0BH4", 
+      "ip": "71.211.132.7", 
+      "name": "Alex", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/uEmPDoq9yGCcNH46yoUMYdLKfqMiz3M4L9cfJCaEw2mg2uLqzDEYC2O2DsxFn33CZMtDUyFxvqFstTpMLwRCKIUWFEi-E3msR3PT", 
+      "ip": "2620:0:1002:100d:697f:41c3:e3:f04b", 
+      "name": "Rossa", 
+      "winner": false
+    }, 
+    {
+      "hostname": "h49.128.189.173.dynamic.ip.windstream.net", 
+      "img": "https://lh6.ggpht.com/1B2wQn6L_9pynYnLmuO1Dmg32x9zqLybW6iKrwThqPD_9ww3g4q_ZUKU8JVcMVBBrZpnGpp_F_6TeD7G_pXIC9z8bovzeWnKVQ", 
+      "ip": "173.189.128.49", 
+      "name": "Steph", 
+      "winner": true
+    }, 
+    {
+      "hostname": "dc1gateway.sjm.com", 
+      "img": "https://lh6.ggpht.com/R5_rDRTOtOCzc2B4xo_GITbLuJjf1Gx6xkgQWIJLU32iE3vgd7uPl3-yQRp27362FQ8TpR6v3Oi5VHciqwqgd1hmvxx31ffdPnFi", 
+      "ip": "150.202.8.1", 
+      "name": "Jim", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpc3-pete9-2-0-cust209.4-4.cable.virginmedia.com", 
+      "img": "https://lh6.ggpht.com/kQkV0CwOamShj4il4DOytypem2K8CwckGgZn0Bd9Bsb2NWzksJajxF_AomacbB0BVgfwNP3nJcBvNz-hhimScjl17K7zUXq3Ud3H", 
+      "ip": "80.6.204.210", 
+      "name": "Graham", 
+      "winner": true
+    }, 
+    {
+      "hostname": "client-86-23-72-138.brhm.adsl.virginmedia.com", 
+      "img": "https://lh4.ggpht.com/QgL2YuVhGzzlCbQ6B4xk44iRNuqAXxXwFH0fgN00slIkycg0B_zw3jLnYmWOkbUPbtk7I3ydV872OlbVRXZbCJ9s-5ihLhQYSVw", 
+      "ip": "86.23.72.138", 
+      "name": "Tony", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-225-49-208.lightspeed.irvnca.sbcglobal.net", 
+      "img": "https://lh4.ggpht.com/v5T7CVzAzobfLddV7MItRevbKy3-ZSDI3ZO9f6JZPrpcSTm-wWtw9-ZmYiEBwO-SqO0uhiTBRPPMOF93oTtjPScTC7xY-zJudi8Z", 
+      "ip": "108.225.49.208", 
+      "name": "Daves", 
+      "winner": false
+    }, 
+    {
+      "hostname": "71-211-132-7.hlrn.qwest.net", 
+      "img": "https://lh3.ggpht.com/zp0f6dz-Fq4v8UwHGj__Qg6gKZvGla3vxYNrmdLxFK8wq09bhKxoLEk693Y4IYU1tbWUTmXrmqN1PkDIdgBgBrpu8WYXZIQt05IG", 
+      "ip": "71.211.132.7", 
+      "name": "Raymond", 
+      "winner": false
+    }, 
+    {
+      "hostname": "s66-76-8-42.parscpsc03-starnet-vln0310.ma.dl.suddenlink.net", 
+      "img": "https://lh5.ggpht.com/9plXmawYFHlnYsMjG1eDleN_cm_FlKr9eXwpqytBmEsP3wzjxF2ucWWPpYb3r79lxUqO5aNDBpMhPgu-lCOtKJspNwWhYpXGz9Y", 
+      "ip": "66.76.8.42", 
+      "name": "Zachary", 
+      "winner": false
+    }, 
+    {
+      "hostname": "s66-76-8-42.parscpsc03-starnet-vln0310.ma.dl.suddenlink.net", 
+      "img": "https://lh4.ggpht.com/sDWrez0dYsVoelY4HtuI2OYWP2p8Sle2e2R0xsn0cEHnnKuhOS-pkma4Gwfotd0MH46zC3uyWh0v9TBGP_v-bbwPag9lCy5wYw", 
+      "ip": "66.76.8.42", 
+      "name": "Zachary", 
+      "winner": false
+    }, 
+    {
+      "hostname": "rrcs-67-52-218-170.west.biz.rr.com", 
+      "img": "https://lh4.ggpht.com/Wd1gHWMOX_8DdYlRz_MBX3_wL5Rxrn3vwA-H6sg7cNOUCHlw6jLpbBdRZl-XRpcYYon_GuRYpIOzSAeGRvp_7o2KKpCTGiviw035", 
+      "ip": "67.52.218.170", 
+      "name": "Laura", 
+      "winner": true
+    }
+  ], 
+  "snap-happy parents": [
+    {
+      "img": "https://lh3.ggpht.com/G1nQIxJsSLABZE0Jq3RxBJbY6j3XJrZ-87t7Zq76JJty82gGDhKN7K1_3bEUo74d7fzcm3JEkV723cyhhiu73JCjIBLk5799NtM", 
+      "ip": "72.11.118.186", 
+      "name": "Jason", 
+      "winner": true
+    }, 
+    {
+      "hostname": "h49.128.189.173.dynamic.ip.windstream.net", 
+      "img": "https://lh4.ggpht.com/iUCzMXNmAhp1-y1sRIVTBiiCVI-XS-uYnPHrFih1I7r0IKQT6ih6u2VOBH9gR0lsPJSPT64Qj0P_ROODphkmhQLYcu-b_iBQbQ", 
+      "ip": "173.189.128.49", 
+      "name": "Steph", 
+      "winner": false
+    }, 
+    {
+      "hostname": "97e68590.skybroadband.com", 
+      "img": "https://lh4.ggpht.com/F1HhcQYBxc-Oo_2ZQcWQr_2CRkoz2G_iaIFODY2xD_u7q2wvhNfnuvenwmJTwOe-KFaIsiVbTrONDbOvgsEiTO7x5Slbs686Ng", 
+      "ip": "151.230.133.144", 
+      "name": "Graham", 
+      "winner": false
+    }, 
+    {
+      "hostname": "c-50-156-53-222.hsd1.ca.comcast.net", 
+      "img": "https://lh3.ggpht.com/8XeN8zAykxTscwcafobQiIPLehdpeuGZ6NDuScHpGcUgdDZHzMM2NblE8yYdN9nH34QUdYZylZYbByzj8ono2YpCtp9TryKyYX8", 
+      "ip": "50.156.53.222", 
+      "name": "Daryel", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/xcpBnTHkwtQQGvdsWOn0pQX6QehsQZOBO-yGy2Lm4EisA3YPsnemFS8BLIWnpnzr5KAmiQ4_A6KDj82gjGBO7e2MpcCQuQVQlg", 
+      "ip": "2600:1008:b106:2640:9d2c:2758:fc19:6cad", 
+      "name": "Tyler", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/mwka4-mSVsKL9H1LYadxLa7FycU6fv_rq1t95xWzgLP69ttes1R7fcc7WzjHY_Iy1jRYGq0IDCXoTYVpbXHtYKiatf8lEj22uXY", 
+      "ip": "139.72.194.130", 
+      "name": "Joel", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host109-148-25-208.range109-148.btcentralplus.com", 
+      "img": "https://lh5.ggpht.com/6cNzvzNSJULhCxsSHW42KRScvLaXHLbuO4tFRd0ViOL73waRGQ3pkBQdfKe-lU_Jpxswk1bkNtpFbBGjgfIMy6Sku81aS8Iy6Q", 
+      "ip": "109.148.25.208", 
+      "name": "andrew", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/7aGZmCHOPA3OdBVeUgSWgrEbiLYqM-xIdF4ONrWbd9g1ljfAZf1PYXa6hRn9Z1EoXpGP762lzlXrwa3rlCMKWNi79b-Q5AE-frZ2", 
+      "ip": "38.126.11.236", 
+      "name": "Eric", 
+      "winner": false
+    }
+  ], 
+  "sports fanatics": [
+    {
+      "hostname": "pool-173-58-195-249.lsanca.fios.verizon.net", 
+      "img": "https://lh6.ggpht.com/qyrI2_fam_nKNjF0pcZNjeuSsU97MivNsccUbMpGk-RTK36dDaNJ9XXbprBqLLcxSRaNyB-Q-4JHtKkQjWEi2epolflWIHZihfqw", 
+      "ip": "173.58.195.249", 
+      "name": "Dustin", 
+      "winner": true
+    }, 
+    {
+      "hostname": "216-59-105-122.i95.net", 
+      "img": "https://lh5.ggpht.com/uIjpK02NN18dCL68jEkwljEicGnTtFKmzE_LQ6jWI69y6FRmoyH-7hSnFhZ5ycGHxOOVLikAoKsibClK8m4ZyRPGrvlftjdPqHs", 
+      "ip": "216.59.105.122", 
+      "name": "Rachel", 
+      "winner": false
+    }, 
+    {
+      "hostname": "n128-227-233-252.xlate.ufl.edu", 
+      "img": "https://lh3.ggpht.com/oAnxkzg9PmrhwAZbJESfTMDrecW23UiuK3vXDVHWuD35qWKrZAft7c2YLhx3jqwaXUefCJiMzHQGLxAcDTX280qby1sOAftXf_A", 
+      "ip": "128.227.233.252", 
+      "name": "Kenny", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/qdQNqfDT6tEuZeszLcfxEEdFgXIUUoW-zxmAtWDOu55xQI6QM97aeXg0RnUZpVyCzI4T36G4BTr1OuwKCg-zVsM1YC7pF4X-7gZX", 
+      "ip": "12.202.100.82", 
+      "name": "Roy", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/dU2VGapRykAnjP1cmqq59rn23hpalNIXRpG5pJcwBNHunA-ysj3a3-wly0DFE4c_5lwv6JoHssfqUar7t1qqPfKY73KfCfvNbyDO", 
+      "ip": "64.126.20.69", 
+      "name": "Mike", 
+      "winner": false
+    }, 
+    {
+      "hostname": "bur-inet-pa-2.disney.com", 
+      "img": "https://lh3.ggpht.com/tzCY8xU7eBKCtzaWQd9ofxNZvrxxpVQmvZ5ZyvjFLRQNQrHhnssiAUxbNtRrJ_yGklHA4kk-qL1kNIUe7fg3_7UWBgoLbtS_ynE", 
+      "ip": "204.128.192.32", 
+      "name": "Lil2azntwinz", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-174-101-92-88.columbus.res.rr.com", 
+      "img": "https://lh5.ggpht.com/Wn2e5hFsSkcIlnxSqAfRybDcPQ2ofmP4c7YrMm-UH8OlvqFNNQZ-YUonjJAlbU31UcPSQJjnzPzzUxDRsTR0p82wM4PAgcHzH2EP", 
+      "ip": "174.101.92.88", 
+      "name": "Farhad", 
+      "winner": true
+    }
+  ], 
+  "super-moms": [
+    {
+      "hostname": "c-71-206-76-108.hsd1.fl.comcast.net", 
+      "img": "https://lh3.ggpht.com/osGWM7OGHW3LjllCQBaeAvAp4EKTP9HDV4IZAIP6t4CkPpuGQZMj6boEzfI_YWWYuqCfSah8ZEacB3N_SYUX42zAKBn5e2dNWeQ", 
+      "ip": "71.206.76.108", 
+      "name": "Rosa", 
+      "winner": true
+    }, 
+    {
+      "hostname": "107-1-149-42-ip-static.hfc.comcastbusiness.net", 
+      "img": "https://lh4.ggpht.com/NnoKyYMx8yarKlYqkr2wr86MHfZn56NNtndoPMuAGQWnuZjUy47wGgvjdc1wHUkfnjYJw7f1pGKVsesA5PjYN2Ue6eLt2WRGZw", 
+      "ip": "107.1.149.42", 
+      "name": "Jordan", 
+      "winner": false
+    }, 
+    {
+      "hostname": "bastion.doj.state.wi.us", 
+      "img": "https://lh4.ggpht.com/BjOeiSwMyi7FQX8vZNubQgqe1_qhLMM89rZtTMsLwEIAkCUMZBoWXbi9US_wgSH1czSz9no8dB4bmd9nEkxfzGRubmqcA1dgHQ", 
+      "ip": "165.189.7.2", 
+      "name": "Andrea", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/zlzIfFHzWGEiKQBjGhCm6qNKK1-aOt-_VEKdHfEa_7MOVMMhPk81kGHT5Ko2NI8oxtSL9N6yxEwCOKeuUlfEK9LW4q5Z9JQntGE", 
+      "ip": "139.72.194.130", 
+      "name": "Elli", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host109-148-132-48.range109-148.btcentralplus.com", 
+      "img": "https://lh6.ggpht.com/iJpLZSObMIYWhD3YeYUH-kEgh0e56roxgXlRIvF8DRxnJUECCYFL75t_t-27ioZGVorAuphNWp4NAjspCNR2G6KgbIc8nArxqwS9", 
+      "ip": "109.148.132.48", 
+      "name": "Morgan", 
+      "winner": false
+    }, 
+    {
+      "hostname": "pool-173-72-12-56.cmdnnj.fios.verizon.net", 
+      "img": "https://lh6.ggpht.com/VALEpzhLBRZmg7w26-21AUebsLeI8kmE-cU2J6HLHPZQ91zhEwljmJLpanSYcgOGd1trR5T5qtqWiuE7-LgtW9ShxAYcz6hZ7BNn", 
+      "ip": "173.72.12.56", 
+      "name": "Fanny E", 
+      "winner": false
+    }, 
+    {
+      "hostname": "97e68590.skybroadband.com", 
+      "img": "https://lh4.ggpht.com/-5P3cgYiW-JWb1XACBiOTjfGjamNfedEQmjgYQfrxc7VnMOqb4wl59GTiVOHEHZMj0Cdl6rpKk3lhCgKAxUvbft36K35C9zPCjg", 
+      "ip": "151.230.133.144", 
+      "name": "Graham", 
+      "winner": true
+    }, 
+    {
+      "hostname": "c-50-140-4-48.hsd1.fl.comcast.net", 
+      "img": "https://chrome.com/giveachromebook/serve/AMIfv97Oz6OHBHfddpsOryFzS4IeBwHmDtWveQddab42P0NtjxxJx0GGNQpNeZ2zybYxcIWpuNO5dfww7POok9r3dFmXx0M7NhaVSLaCx3sX-L5gc0foclHWUOrAc1ahqMllIg4thxGnUDN1P0kdJRyQ--Rtrq1dKRlxq4TUf4KYOWCBsTv_VDM?", 
+      "ip": "50.140.4.48", 
+      "name": "Kerry-Ann", 
+      "winner": true
+    }, 
+    {
+      "hostname": "c-50-160-45-116.hsd1.ut.comcast.net", 
+      "img": "https://lh3.ggpht.com/p18Cfx6fYZIKvJhz3LVH20xMM20ai4OOV31W4Iyg0E9yZAQdU-tJ_iudrbCgGYyuDjygyPtY1ecJ-bnHtlqpDvnFDdy3jM3vbg", 
+      "ip": "50.160.45.116", 
+      "name": "Carolina", 
+      "winner": true
+    }, 
+    {
+      "hostname": "97-122-122-45.hlrn.qwest.net", 
+      "img": "https://lh4.ggpht.com/P8cCM35vrbvmer7vmVCv-0hXRhYm5QnIMSlENxqtNFtYHKJgLd94VJjtFJI_fj3iPrTHjzlWPrrnGTtG9iDatsKeOBpZ-8cv_Q", 
+      "ip": "97.122.122.45", 
+      "name": "Kerriann", 
+      "winner": true
+    }, 
+    {
+      "hostname": "63-234-23-18.dia.static.qwest.net", 
+      "img": "https://lh4.ggpht.com/a-JnBO8ktkqYX2Ln19Tf1xe_Qb8y9wsS52D8OyOejjkgqFgnmYuqrQ6rKd2gXrBFfDEfc1MfEuLJfHYwV31nqDgh87rcSxkv8_A", 
+      "ip": "63.234.23.18", 
+      "name": "Karin", 
+      "winner": false
+    }
+  ], 
+  "super-proud pet owners": [
+    {
+      "hostname": "pool-96-238-188-87.rcmdva.fios.verizon.net", 
+      "img": "https://lh5.ggpht.com/Tu-1K7S2iX-avRd3dB_7oXHg7uCR1ijuc1LgSjn6b4OzrYxh8yVkuQwC1LxP9XLH4BBJtLZa8iiAnTgz34qstazniZuoJlyLD-4", 
+      "ip": "96.238.188.87", 
+      "name": "Peter", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh4.ggpht.com/pW7EAxhmM2PLZn-2Y2i1Q18Z4ZFtXUP2IKYn_rhqgIhQ-r_cZSLF9ZZAumfYvpIgiPLuV-xC0Pjpul7gMqBPon8onvcujw6jCb8f", 
+      "ip": "146.7.58.0", 
+      "name": "Jason", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-75-83-244-17.socal.res.rr.com", 
+      "img": "https://lh5.ggpht.com/v1uAHpUlkwAqQU-0gW-1UjvP3dec8Pqol8_bHF013bv2KA9xWsZ0EA6YzmXR9HRhIexpWn48eZTR0IuiYa94SwPXZjhPO_-xobM", 
+      "ip": "75.83.244.17", 
+      "name": "Tom", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-75-83-244-17.socal.res.rr.com", 
+      "img": "https://lh5.ggpht.com/aSGduULKoVUptUxVkiNPikhONsPgC8TqS05qQw9nUUxvkjyw8qCerN9t6lz0WpQb0ZN0BWqTCcIVgOBILQ1CxIsxiCu0_aABNQ", 
+      "ip": "75.83.244.17", 
+      "name": "dj", 
+      "winner": false
+    }, 
+    {
+      "hostname": "edocumentresources.com", 
+      "img": "https://lh3.ggpht.com/eJNFCFBFkbkVtUnQ6GdTohfLGlVaC2rHzNlBRsh6aO0Xo9wRawYL6zeHBAhZznj_4i4tSvLfXyVOsoSUxetI_RiW62_OhWinK0Q", 
+      "ip": "173.160.102.57", 
+      "name": "Adam", 
+      "winner": false
+    }, 
+    {
+      "hostname": "c-98-240-178-122.hsd1.mn.comcast.net", 
+      "img": "https://lh5.ggpht.com/IYh7I7V5iPUx2NT1MpqICLDj3cTjYCoFQBgPXcq2n3_KjSCrrpEpaJVMqmMqB3IcuTzM51dQ2NplKD3Thhi-4OtHknW2kxDATg", 
+      "ip": "98.240.178.122", 
+      "name": "Adam", 
+      "winner": false
+    }, 
+    {
+      "hostname": "24-107-190-30.dhcp.stls.mo.charter.com", 
+      "img": "https://lh4.ggpht.com/Bv_odFGNYua7YV9Ozjc04pcZLcZHeSs3ccyWXta-8GisY-QDP5XQoT89tyoVfVxOK0gSHk-0KYdbo3YnpNOReL32rHB0RyoppqSL", 
+      "ip": "24.107.190.30", 
+      "name": "Justus", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/GqRQCEnDK3LynLmOZ6kSRoRPnWVGPDTxtS_v8aiMakBlemQ02TtgY0f1iTtr7j5O-1DMmmF69QopaetZg-vJF3UW-Z82xSf8dQ", 
+      "ip": "65.242.92.128", 
+      "name": "Kyndele", 
+      "winner": true
+    }, 
+    {
+      "hostname": "c-98-227-110-118.hsd1.il.comcast.net", 
+      "img": "https://lh6.ggpht.com/IsH2P2F8vUCfd3e99lfnjO7M2yroshTo9IHaeFr9ad7wmm4xnju0-b8QyGLQup7KD5KfcD229afMIaNpFjEhJHnrXmKxZRDvw_TC", 
+      "ip": "98.227.110.118", 
+      "name": "Stephen", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-225-49-208.lightspeed.irvnca.sbcglobal.net", 
+      "img": "https://lh6.ggpht.com/EBK2V2Xii4desVpq7bJGIieyCy7H_BCMOcquPzgUQDsLLJEVDFjwUSTTSmTRHqHJ5OufrWx3zn4EGbne86iCcTjAgpDgQchmlQ", 
+      "ip": "108.225.49.208", 
+      "name": "Anne", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpc10-cmbg14-2-0-cust174.5-4.cable.virginmedia.com", 
+      "img": "https://chrome.com/giveachromebook/serve/AMIfv97blINnCKMuonVU22yjNtpZpAm-ABS9pqnEEMF4i12CvgzSnNMpEUor3q1_Xyd_aeAM2RvI7nYRGP4AfUdYmw598JwMA1q2I3npX5ySndWcEt95E8i1W1YqZWcf41-LeHNK_Xj-bjYscRevDQ6iWIkhZ4mYWqLBtqCnQGABIKTh3bcPmwA?", 
+      "ip": "82.8.54.175", 
+      "name": "Dan", 
+      "winner": true
+    }, 
+    {
+      "hostname": "206-190-75-9.static.twtelecom.net", 
+      "img": "https://lh5.ggpht.com/JWy1FDeMQFA5E79HGjqbeT1sJcxvC19z7rMJ4zVUL3jTbKZGPA3NoqtXZrq1kSxeWoqJkZdHmJFvUFqmWacAvht2fzMWKd05744v", 
+      "ip": "206.190.75.9", 
+      "name": "Andy", 
+      "winner": false
+    }, 
+    {
+      "hostname": "bos-gate2.raytheon.com", 
+      "img": "https://lh3.ggpht.com/F09Whgsj0Fg2DfUXGnnoRqM4pz1GAA_aSMbntr9saEayaOwrGqPzxqmr4bzb6klbV3Ba3QVaZ9uKm1WVxRHtpy4eaATgifqBvg", 
+      "ip": "199.46.198.231", 
+      "name": "PJ", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-225-49-208.lightspeed.irvnca.sbcglobal.net", 
+      "img": "https://lh5.ggpht.com/nGiXM5C_UYOT2UWhYFe4y7UuP8nl168gZ0zsoJO3sBw5hqL7Xqnipyqofu7B90qpyqrtGNjCH8cVPZJ3wkshKz5r-tGXFaNE6OI", 
+      "ip": "108.225.49.208", 
+      "name": "Anne", 
+      "winner": false
+    }, 
+    {
+      "hostname": "cpe-75-83-244-17.socal.res.rr.com", 
+      "img": "https://lh4.ggpht.com/F6iS5SEzmsXDO43LpY-iQizF86He3c_b-IPHe4RYIBWtUTq7--34JPR_VaBfpOosBeKYwSe8rBSLyfZI6IgszjtGIrSfVAxtRuqV", 
+      "ip": "75.83.244.17", 
+      "name": "Tom", 
+      "winner": false
+    }, 
+    {
+      "hostname": "ool-4573dbb8.dyn.optonline.net", 
+      "img": "https://lh5.ggpht.com/AjU1q71EHCZGqbDqWjBtUDWzFuRWQBnGjxisbTVpdJBnPcrHsOwxD9OrDSoof8GUVn9GCgv6pmSqqDQJWjTbGx_tmoHH1U07oQ", 
+      "ip": "69.115.219.184", 
+      "name": "Nicole", 
+      "winner": false
+    }, 
+    {
+      "hostname": "108-225-49-208.lightspeed.irvnca.sbcglobal.net", 
+      "img": "https://lh6.ggpht.com/fMt59e0nzF_ZnE-eLXZal3gIHaI_HmR6BaH3gxbPl-Sqnz6xaq7lhi2SPMJ2SFI4h6r5L53mNTVo9NZwPNpzPlQ7c5Yd7fUxVSEc", 
+      "ip": "108.225.49.208", 
+      "name": "Daves", 
+      "winner": false
+    }, 
+    {
+      "hostname": "h49.128.189.173.dynamic.ip.windstream.net", 
+      "img": "https://lh6.ggpht.com/GsGN7e-Ox6NB_Sqp3KmIMJKloK2tLCL0EelOGxrwNNXhbR-5wobJ62KxjqCCnt2IMGyOw3axCj-rKtWvnqYpG5wqgcYNIfERLPM", 
+      "ip": "173.189.128.49", 
+      "name": "Steph", 
+      "winner": true
+    }, 
+    {
+      "img": "https://lh6.ggpht.com/1sw91Mt2FKKmdltjCjE4s3_KnllDNZALZ5luBvTPEPeIOsITpZu8Lv6neGkKehX5EBeMLib4kUuKLwM9K5c_Wyhmrtc1RUTKQc4", 
+      "ip": "165.27.246.1", 
+      "name": "Amanda", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh3.ggpht.com/ivL5Gmk0aXAISFIh35DRBSYJ6--tHv00pj_M13GAlUBVbuTD4mE5cAAMxJpET0u4aNhQw83KaLaKhlnqgNtiI4sIBYJvE8hvqnA", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }, 
+    {
+      "hostname": "bur-inet-pa-2.disney.com", 
+      "img": "https://lh6.ggpht.com/R6TRvnxPwCunBUYZJLgjsWhgvFO4IVvN9ZiNF6PuyMRR1mS6VEUVsc6TrSzaqF8Vf_iUm7G6iI5pWeXjXtjqsh4HLdW1jNf1ZQ", 
+      "ip": "204.128.192.32", 
+      "name": "Bicky", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh3.ggpht.com/WqrtEuXid_uPRcEKwbuGRm5Ci4lKTALszoyHFj-kCeZr9ul4VqpxLc97e4kLJZeHjVMcpIBD0RxA-zqFLte7-iu8nUciYC21fQ", 
+      "ip": "2600:1000:b11d:d0a6:a72d:df3f:a690:ef81", 
+      "name": "Alyssa", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh3.ggpht.com/sv6H0fuk66k3Mgav6rcncik5GsXpEg0h0W3vaRQo7sCkSNiQ7AbUcYuwHO0z7O3i2mW04pjQuq0nDlao8Kd_AFnB6Go7CstMiJyf", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/KqHBhK9FywXehgjsqjtX22mSaxqBeQK8S5wO6MOnXXbrI_apzQbX2w6HQgK7j1yA3miNzRxNb1Euh3B-4yZ02yhGrUnFel7yS0Y", 
+      "ip": "65.242.92.128", 
+      "name": "Kyndele", 
+      "winner": true
+    }, 
+    {
+      "hostname": "ztxn06cs304.austin.hp.com", 
+      "img": "https://lh3.ggpht.com/8bteZEU4bH_evbWUGF7etIIEFHmsPGgR356MvqRpI_sTzXTaX-75Zd1NLcyJoAumWZm_U49qJw0DUPZAWzzlHXeVBy8hKDDxwdM", 
+      "ip": "15.219.169.72", 
+      "name": "Christopher", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/ybhEv2Ha5Fi8WhnKA3-oSOKgHi9fAOpkn8Uu8CUsqzy0cI2BHqMCMD5KOZaHtFZ0ANTaUnykR4fEZ87EJYGbH1aH81F_a597TJNl", 
+      "ip": "172.56.30.172", 
+      "name": "Tom", 
+      "winner": false
+    }
+  ], 
+  "superfans": [
+    {
+      "hostname": "gw1.allina.com", 
+      "img": "https://lh5.ggpht.com/3A8oClTFGNd80FNkWoG_rhOzV3ngkqTDPX_WR8op9u7LMwOo-T67eftPium_PpaJT3dHnumuFT6DFqr3pHtxXbajG_GFEDVX6Pvk", 
+      "ip": "167.177.39.6", 
+      "name": "Anthony", 
+      "winner": false
+    }
+  ], 
+  "tech saviors": [
+    {
+      "hostname": "c-50-167-129-81.hsd1.ga.comcast.net", 
+      "img": "https://lh4.ggpht.com/MffrGTRiBLEJgDre1v_o9jmMGZyjoKxJwplViuUz5neBgsV69UxXETFFfcp47H2ZTEOtFmnAUi8HM887fHw3EFSJdWPF1r4A1LhP", 
+      "ip": "50.167.129.81", 
+      "name": "Justin", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh6.ggpht.com/PPPq-I9LEUs7ivvt1d-zDB8q68ozJ3SlBz7KqMkUdBdx3axX7ViFb_QFFLP1yCH_ht2xQwNv3ya_vjYP10KRPJgRpoLR-o2SBpj8", 
+      "ip": "5.2.121.178", 
+      "name": "Malkesh", 
+      "winner": false
+    }, 
+    {
+      "hostname": "64-91-30-117.stat.centurytel.net", 
+      "img": "https://lh5.ggpht.com/uSIw2G2v3Y4SslnAqZp83Z8rn4YQzoR0D_fO3Dr499ollfC5KT48aOk4ltg57Iwejs7l8nNx1Bm5emjZUcGEMGv9DDwr04kW8iI", 
+      "ip": "64.91.30.117", 
+      "name": "Clayton", 
+      "winner": false
+    }, 
+    {
+      "hostname": "89-168-92-92.dynamic.dsl.as9105.com", 
+      "img": "https://chrome.com/giveachromebook/serve/AMIfv94I8TCCuppj3Q5aT-71BIAzKDeHRrx6PhGmjXgZDk6_JtxTgCTt1Hg7HBe--XFTJa4t_hTGAK6J18o-K17g8IhLGdlRICpR8ywF7y9YXK6oUvZdw9vozs2QrUtKRQPL7W6YB79qZ3zuAYC-0jDsqmzKyI9Jvy76uhYksNpOIx-Np8cQIOg?", 
+      "ip": "89.168.92.92", 
+      "name": "Callum", 
+      "winner": true
+    }, 
+    {
+      "hostname": "mobile-166-137-144-160.mycingular.net", 
+      "img": "https://lh6.ggpht.com/tDGZuTiJEFk2C8HkFbQt1jOMzQ79zi0hhaAfi-9MnBl9p8IuMh0XBbpLkqf9t45QhAwRndXUkOy7aQdFU_X8TcHCMOrk5MHZ5h4", 
+      "ip": "166.137.144.160", 
+      "name": "Nick", 
+      "winner": false
+    }, 
+    {
+      "hostname": "24-107-190-30.dhcp.stls.mo.charter.com", 
+      "img": "https://lh5.ggpht.com/g4XnpJ27dKUqQOLKhj2xr7--50a0Y6szDrHsarhCDgUvqfm3P48D1xDQ_DuXIeg8jmHi90F9zPascgSpPvkzR_PBIC2_ivrabos", 
+      "ip": "24.107.190.30", 
+      "name": "Justus", 
+      "winner": true
+    }, 
+    {
+      "hostname": "nat-128-62-66-216.public.utexas.edu", 
+      "img": "https://lh4.ggpht.com/8w-lxJpKlNwPylzBjHBXsBU4GiGAT0B__-gHyNAX1VXCIzXIFGBAg0JbBrwleBr9EyxJEg3sidztP7qC5Dxwj4WAMHSSZFZpxw", 
+      "ip": "128.62.66.216", 
+      "name": "Omar", 
+      "winner": false
+    }, 
+    {
+      "hostname": "ns2.covantagecu.org", 
+      "img": "https://chrome.com/giveachromebook/serve/AMIfv97DfRe0SGkUJFHoznJCYERaxBYmXZHssSIWfdD-hEKQkIyKlhUv94xQtqGAm3I6S69oUrurYJq8B33acXr1nULLest-Y663orAbG3nA9tiqwFCRkSOKXo1rco6-6knBSrUiX1KMxK6Flf0Iq9qR4fhbxEuOGVfqteQ0ppxHyVLeVRuhPDc?", 
+      "ip": "199.168.94.66", 
+      "name": "Aaron", 
+      "winner": true
+    }
+  ], 
+  "work buddies": [
+    {
+      "hostname": "host-64-179-27-162.pro.choiceone.net", 
+      "img": "https://lh5.ggpht.com/p7kHD6B6aMs3S669gRbyS59HX2cQVJFNiWH-p1bARzUs_vji8bExGooHYIakjRTzTxKdi8wXsqF-muqqbOBFB7afE6LWjyvDi1g", 
+      "ip": "64.179.27.162", 
+      "name": "Joe", 
+      "winner": false
+    }, 
+    {
+      "hostname": "out.dentsuamerica.com", 
+      "img": "https://lh6.ggpht.com/7sYv3w6YY9mPbhB1tm0d09iIQkpaNDTTx53YkZXDjuMKACeOkP0cH1sJH8SUbWvmdS0DYv-oGBxbl5iOtK2r1APLEgQCRCcox5Y", 
+      "ip": "4.53.94.173", 
+      "name": "Meagan", 
+      "winner": false
+    }, 
+    {
+      "hostname": "68-188-96-164.dhcp.stls.mo.charter.com", 
+      "img": "https://lh3.ggpht.com/gTs6Z80gO47lDXGTzueMnMsEOpWFPJDyCCEonT4ebdypBk0e14LnG7TH45AmkogvvcAI7Kotz-VvAv3u-u43huUvzoUwlcS6wQ", 
+      "ip": "68.188.96.164", 
+      "name": "Adam", 
+      "winner": false
+    }, 
+    {
+      "hostname": "50-202-52-122-static.hfc.comcastbusiness.net", 
+      "img": "https://lh5.ggpht.com/oDQQCaZDiGHeVjmSXJV-WJ-EJ4pfroKwDWseq4sc_KpfBzXjBBExJKjf8nyo6iz2WHJjWW-_cCSzBUHpi6hmYx3IKquEKWoakrtO", 
+      "ip": "50.202.52.122", 
+      "name": "Kyle", 
+      "winner": false
+    }, 
+    {
+      "img": "https://lh5.ggpht.com/av7KhH_yOj8IC4PydRjQg37jxr5iMKT1bBHFXFqeh-yzp5xix2bXhntkfx7DtCiNNdJJWRxBVSWQE72a6kHKBrMxhdQGD-UX-vQ", 
+      "ip": "2600:1005:b10f:3766::103", 
+      "name": "Justin", 
+      "winner": false
+    }, 
+    {
+      "img": "https://chrome.com/giveachromebook/serve/AMIfv967eMJdL5iqCyde8rjtT11gXb8HN6CCMol0RIUdxEOXh5wULvbmScY8DAmwRxdKSlUOXyw_dWZpwoDNqBvNNp8QL5zmn5L4sLMdJDrUSuVWXy5ZJoQ-V_4ih_MzwkG8CEyE8B9jSAulTeGX452_LM9Ok2IOZaJDdoDwDf3DUFFp-faSHTc?", 
+      "ip": "199.16.190.194", 
+      "name": "Brett", 
+      "winner": true
+    }, 
+    {
+      "hostname": "pluto.brumtopia.com", 
+      "img": "https://lh4.ggpht.com/fF23SiEIc-YJjsyMYuAaO5fDfJeXd5KJ6S1aXp5lCLj_HFanakk5KNe6l_h0tTsmDl3FbeCXT4-jyu0YvbJ18qox1u8LXgS8jDA", 
+      "ip": "23.21.201.110", 
+      "name": "Michael", 
+      "winner": false
+    }, 
+    {
+      "hostname": "pluto.brumtopia.com", 
+      "img": "https://lh3.ggpht.com/FEES5JmV82mPkALHzPkRv1QdlaJai82iJbaTgwo6U-BBTBR8_z2ql48susPZoQbaeCZ9KrhC-dROLKoKFR-I7kQBhgU9-npjYGJv", 
+      "ip": "23.21.201.110", 
+      "name": "Michael", 
+      "winner": false
+    }, 
+    {
+      "hostname": "bos-gate3.raytheon.com", 
+      "img": "https://lh6.ggpht.com/Fh9ArQ4d4LCzzSRh4vfrPsgNGKt7-gyLtwYJIUOcI5MLnEefhNJcvxjO1Kgdy5rrGhpxhR3ValimGoax1fwtJKzsz6blyGGb2w", 
+      "ip": "199.46.198.232", 
+      "name": "Scott", 
+      "winner": false
+    }, 
+    {
+      "hostname": "host86-179-106-143.range86-179.btcentralplus.com", 
+      "img": "https://lh3.ggpht.com/Mrx556lKVfdmAcqP8Vx2fR1E6Nn2RuUQstuTv_tKOTLLWicjefTL-etOlz2qmmaNDdDFj1pWzRiUD4-qaHK5HTUdy4YYPbEKVSmT", 
+      "ip": "86.179.106.143", 
+      "name": "Narley", 
+      "winner": false
+    }
+  ]
+}

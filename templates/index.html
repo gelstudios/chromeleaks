@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Chromebook Giveaway Leaks User Data</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+  <div class="container"><br>
+    <center><img src='http://www.google.com/intl/en/chrome/assets/common/images/devices/hp-chromebook-11/specs-view-open.jpg'></center>
+    <h3>Google's Chromebook Giveaway Leaks Some User Data...</h3>
+    <p>To celebrate the launch of the new HP Chromebook 11, Google is giving away a bunch of the new chromebooks through a fun little photo <a href="http://chrome.com/giveachromebook" target="_blank">contest.</a>  Users can nominate someone for one of the many clever categories (like "Photobombers", "Tech Saviors", or "Cyptic Updaters") and judges award prizes to the top 33 photos in each category.
+    </p><p>It turns out that the page leaks the names and IP Addresses of the featured submissions. The data is probably not dangerous, but could be combined with other data to potentially identify people, or at least thier locations. I was able to find some of the photos with Google Image Search, often in the case of an avatar/profile photo. For some, the hostname was enough to id them. The photos are png so at least they don't have any embedded geodata.</p>
+
+    <h3>Method</h3>
+    <p>You can do this yourself, load the giveaway promo page <a href="http://chrome.com/giveachromebook" target="_blank">http://chrome.com/giveachromebook</a> and watch it fetch data from 'https://chrome.com/giveachromebook/submission_categories'.</p><p>Dig a little to get the first name, photo url, prize status, and ip address.</p><p>Ask your friendly dns server for a reverse lookup and hit your favorite GeoIP database for some location data.</p><p>Add links to Google Image Search and Google Maps to rustle some feathers and you're done.</p><p>Code here: <a href='https://github.com/gelstudios/chromeleaks' target="_blank">https://github.com/gelstudios/chromeleaks</a></p><p>Geo data from <a href='http://freegeoip.net' target="_blank">http://freegeoip.net</a></p>
+
+    <h3>Does it matter?</h3>
+    <p>People submitting photos for the contest know they are giving data to Google and told might be featured on the page and "become chromebook famous". But these users are probably not expecting potentially identifying information to be available to everyone who visits the page.</p>
+    <br>
+  </div>
+
+  <div class="container">
+    <center><h3>Featured Submissions</h3></center>
+    <table class="table">
+      <thead><tr><th>Name</th><th>Photo</th><th></th><th>Winner?</th><th><center><p>IP Address /<br>Reverse DNS</th></p></center><th>Location</th></tr></thead>
+      <tbody>
+      {% if data %}
+        {% for category in data %}
+          <tr><td colspan="6"><center><div class="alert alert-info">Category: {{ category | capitalize }}</div></center></td></tr>
+          {% for row in data[category] %}
+            <tr>
+            
+            <td style="vertical-align:middle"> {{ row['name'] }} </td>
+            
+            <td><a href={{ row['img'] }} target="_blank"><img src={{ row['img']+'=s200' }} width="200"></a> 
+              <td style="vertical-align:middle"><a href="http://images.google.com/searchbyimage?image_url={{ row['img'] | urlencode() }}" target="_blank"><span class="label label-danger">Img Search</span></a></td></td>
+              
+            <td style="vertical-align:middle">
+              {% if row['winner']==True %}
+                <span class="label label-success">Winner</span>
+              {% endif %}
+            </td>
+            
+            <td style="vertical-align:middle"><center><p>
+              {% if row['ip'] | length > 16 %}
+                {{ row['ip'][:16] }}
+                <br>
+                {{ row['ip'][17:] }}
+              {% else %}
+                {{ row['ip'] }}
+              {% endif %}
+              <br>
+              {{ row['hostname'] }}
+            </p></center></td>
+
+            <td style="vertical-align:middle">
+              {% if row['region'] %}
+                {{ row['city'] + ', ' + row['region'] }} 
+              {% elif row['country'] %}
+                {{ row['country'] }}
+              {% endif %}
+              {% if row['lat'] %}
+               <a href="https://maps.google.com/?q={{ row['lat'] }},{{ row['long'] }}" target="_blank"><span class="label label-danger">Map It</span></a>
+              {% endif %}
+            </td>
+
+            </tr>
+          {% endfor %}
+        {% endfor %}    
+      {% else %}
+        <tr class="error">
+        <td>No data loaded</td>
+        <td>NA</td>
+        <td>NA</td>
+        <td>NA</td>
+        <td>NA</td>
+        </tr>
+      {% endif %}
+      </tbody>
+    </table>
+  </div><!-- /container -->
+  </body>
+</html>
